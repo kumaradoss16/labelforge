@@ -1,0 +1,6 @@
+{
+  "name": "LabelForge Studio",
+  "description": "Enterprise-grade label design, industrial barcode generation, and thermal print management platform for tablet and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
